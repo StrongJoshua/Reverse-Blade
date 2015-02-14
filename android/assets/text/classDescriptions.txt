@@ -1,0 +1,1 @@
+A simple hound that is used to guard areas like prisons. Has high speed and attack.

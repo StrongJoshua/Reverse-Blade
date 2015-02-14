@@ -1,0 +1,4 @@
+22:44:24 EST 2015: > iwbwbv
+22:44:24 EST 2015: Error: No such method found.
+22:44:46 EST 2015: > sethealthall 50
+22:45:07 EST 2015: > printlog log.txt

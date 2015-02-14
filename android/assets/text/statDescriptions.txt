@@ -1,0 +1,9 @@
+The unit’s health points.
+The unit’s physical strength; affects physical attacks.
+The unit’s magical strength; affects magical attack.
+The unit’s physical defense; affects physical damage.
+The unit’s resistance towards magical attacks; affects magical damage.
+The unit’s speed; affects evasiveness and attack speed.
+The unit’s combat skill; affects attacks, critical hits, and evasiveness.
+The unit’s luck; affects multiple traits.
+The unit’s physique; affects attack speed and stealing.

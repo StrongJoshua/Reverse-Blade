@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="15" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="Test" tilewidth="64" tileheight="64">
+  <image source="64x64Tiles.png" trans="ff00ff" width="640" height="640"/>
+  <tile id="0">
+   <properties>
+    <property name="Movement Cost" value="1"/>
+    <property name="Name" value="Plains"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="Movement Cost" value="1"/>
+    <property name="Name" value="Plains"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="Movement Cost" value="1"/>
+    <property name="Name" value="Plains"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="Movement Cost" value="1"/>
+    <property name="Name" value="Plains"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="Movement Cost" value="1"/>
+    <property name="Name" value="Plains"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="Movement Cost" value="1"/>
+    <property name="Name" value="Plains"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="Movement Cost" value="2"/>
+    <property name="Name" value="Forest"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="Movement Cost" value="3"/>
+    <property name="Name" value="Mountains"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyNlNEOQyEIQxFF7/9/8bKEJkem2x6I8Q7bWuoeM3su1bM818h1ZrXcj+zx7GFffMEfiRG51r14PPcN2B09N46GGlkrawBfeIHvA3cT50k/cVZqXdDlwJeXDl5qaBd/OvBP5YUn8rv8kW+emA88lib6cOLoBad6JTxh6nf1cl7jgK+8TdvzxfkPrB2rNOl+OrPQoz0zpH4vuPIjUPpNfK3wNMydPghr2u45NU3b9XDugbMLXHxr88LDzDBnOsO3FrbrC9tnQc/VX2fIHNfsC0PnvWDxLrecM+vU9sAX4YmLudPZb/jLPv+/6jtgzpR95v0Xvu7B2TLv1M63I55/8N/1AomtBr4=
+  </data>
+ </layer>
+</map>
