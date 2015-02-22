@@ -82,7 +82,7 @@ project(":core") {
     dependencies {
         compile "com.badlogicgames.gdx:gdx:$gdxVersion"
         compile "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
-        compile "com.strongjoshua:libgdx-inGameConsole:0.1.0"
+        compile "com.strongjoshua:libgdx-inGameConsole:0.2.1"
     }
 }
 
